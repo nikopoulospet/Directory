@@ -1,11 +1,11 @@
 # Directory
-Navigating my github made easier.
+Navigating my github made easier.  
+Check out my [resume](resume.md)
 
 ## Github Projects
 
-### Path Planning / Navigation Robot
+### [Path Planning / Navigation Robot](https://github.com/nikopoulospet/rbe3002)
 This project involved creating a simulated robot in ROS and Gazebo. The goal was to autonomously map and navigate a random maze under a 5 minute time limit. The resulting robot was very successful and I invite you to take a look at the git repo.
-https://github.com/nikopoulospet/rbe3002
 <p align="center">
   <img src="images/Frontier_robot.png">
 </p>
@@ -13,24 +13,19 @@ Here is a brief presentation that covers the basic functionality of this robot.
   
 https://docs.google.com/presentation/d/1sP6OZyR7GFrnltFu_WdF3-0a_2Va9bV9yntR3m7LxwY/edit#slide=id.gb0be1dad54_0_0
 
-### MultiThreaded Game of Life
+### [MultiThreaded Game of Life](https://github.com/nikopoulospet/project3)
 This is an implimentation of the game of life that utilizes multithreading to run faster. The multithreading is done manually in C++ using system calls to the linux kernel. 
 <p align="center">
   <img src="images/Gospers_glider_gun.gif">
 </p>
   
-https://github.com/nikopoulospet/project3
 
-### Othello game playing AI
+### [Othello game playing AI](https://github.com/nikopoulospet/Othello-AI)
 This is an AI designed to use A-B pruning and Minimax to play the game of Othello on an 8 by 8 board. Open Ai's Gym was used as a training and benchmarking enviroment to train a Deep Q network agent in addition to the minimax agent.
 <p align="center">
   <img src="images/othello-board-move.gif">
 </p>
   
-https://github.com/nikopoulospet/Othello-AI
-
-## Resume
-![](images/phnikopoulos_resume-1.png)
 
 ## Other Projects
 ### IAM Robotics Intern Project
