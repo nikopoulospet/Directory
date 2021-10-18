@@ -27,6 +27,14 @@ This is an AI designed to use A-B pruning and Minimax to play the game of Othell
 </p>
   
 
+### [3D Reconstruction](https://github.com/Sensor-Fusion-Indoor-Mapping/Indoor_Mapping) 
+check out the paper [here](reconstruction/paper.md) 
+<p align="center">
+  <img src="images/Matterport.png">
+</p>
+
+
+
 ## Other Projects
 ### IAM Robotics Intern Project
 <p align="center">
@@ -44,8 +52,5 @@ The goal was to create an autonomous sentinel drone that would activate and begi
   <img height="500" src="images/legged_robotics_cover.png">
 </p>
 
-### [3D Reconstruction](reconstruction/paper.md) 
-<p align="center">
-  <img src="images/Matterport.png">
-</p>
+
 
