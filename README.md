@@ -39,7 +39,7 @@ The goal was to create an autonomous sentinel drone that would activate and begi
   <img height="500" src="images/Autonodyne_drone.jpg">
 </p>
 
-### Social Legged Robot
+### [Social Legged Robot](leggedRobotics/paper.md)
 <p align="center">
   <img height="500" src="images/legged_robotics_cover.png">
 </p>
