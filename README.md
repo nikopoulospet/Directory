@@ -37,6 +37,7 @@ check out the paper [here](reconstruction/paper.md)
 
 ## Other Projects
 ### IAM Robotics Intern Project
+At IAM I developed novel perception pipelines to integrate IAM's Swift platform into Johnson & Johnson's package distribution infrastructure. As a robotics software engineer at IAM I wrote GPU kernels, redesigned legacy algorithms, and developed a communication protocol in collaboration with CapSen.
 <p align="center">
   <img height="500" src="images/IAM_robot.png">
 </p>
